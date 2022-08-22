@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Chikzz2001
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react js
 - 📫 mail id:dibyabrata1234@gmail.com
 
 <!---
